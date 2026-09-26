@@ -25,12 +25,14 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mtanzeem049-del/MD/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mtanzeem049-del/MD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mtanzeem049-del/MD/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mtanzeem049-del/MD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/mtanzeem049-del/MD/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mtanzeem049-del/MD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
